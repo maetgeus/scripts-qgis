@@ -21,6 +21,4 @@ Esse script compara camadas de vias (como OpenStreetMap e Rotas Rurais) e identi
 
 ---
 
-## 📬 Contato
-
 Desenvolvido por [Matheus Ferreira](mailto:mff.matheusfernandes@gmail.com)
